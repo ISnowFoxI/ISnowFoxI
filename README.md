@@ -50,7 +50,7 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table style="border:none"><tr><td valign="top" width="50%">
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ISnowFoxI&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&text_color=01d6fe&title_color=ffee4c&icon_color=ffee4c" align="center" /></div>
 
