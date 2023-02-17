@@ -6,7 +6,7 @@
 ### <div align="center">I work as a full time react native developer, but I am also interested in front end development💻</div>  
   
 
-- 🌱 I’m currently learning more JS and Redux  
+- 🌱 I’m currently learning more JS, React native and backend  
   
 
 - ❓ Ask me about anything related to React Native and related technologies  
